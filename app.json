@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Finanzas",
+    "slug": "finanzas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F7F2"
+      },
+      "package": "com.demoralesu.finanzas"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "20ccd4a1-18ec-4839-a5a3-a6ef260a1def"
+      }
+    }
+  }
+}
